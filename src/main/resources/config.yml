@@ -1,0 +1,14 @@
+encounter:
+  id: observatory
+  phases:
+    - id: stabilize
+      objectives:
+        - id: activate_relays
+          required-progress: 2
+        - id: clear_sentinels
+          required-progress: 3
+    - id: seal_rift
+      objectives:
+        - id: hold_zone_ticks
+          # Each progress unit is one occupied second, measured at 20 server ticks.
+          required-progress: 15

@@ -1,0 +1,14 @@
+name: EncounterStateDemo
+version: 0.2.0
+main: dev.velmren.encounter.paper.PaperEncounterPlugin
+api-version: '1.21'
+description: Small original encounter state-machine demonstration
+author: Velmren
+commands:
+  encounter:
+    description: Join and play the Observatory encounter
+    usage: /encounter <join|kit|start|status|reset>
+permissions:
+  encounter.admin:
+    description: Allows resetting an active encounter
+    default: op

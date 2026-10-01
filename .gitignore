@@ -1,0 +1,14 @@
+/.deps/
+/.tmp/
+/.tools/
+/build/
+/target/
+*.class
+*.jar
+*.zip
+/.dev-server/
+/.dev-client/
+/output/
+/dev-client/.gradle/
+/dev-client/build/
+/dev-client/run/

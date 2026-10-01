@@ -1,0 +1,47 @@
+[
+  {
+    "file": "adventure-api-4.26.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.26.1/adventure-api-4.26.1.jar",
+    "sha256": "551E536B9EA868F30E72C7900A309B35124EE7D4889FA3B3AED0910299751A26"
+  },
+  {
+    "file": "adventure-key-4.26.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.26.1/adventure-key-4.26.1.jar",
+    "sha256": "EEC172D63DB77B40EB7ABEEB25F65EEDEA89BD30264D057B68B12FECB731BE5E"
+  },
+  {
+    "file": "annotations-26.0.2.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar",
+    "sha256": "2037BE378980D3BA9333E97955F3B2CDE392AA124D04CA73CE2EEE6657199297"
+  },
+  {
+    "file": "bungeecord-chat-1.21-R0.2-deprecated+build.21.jar",
+    "url": "https://artifactory.papermc.io/artifactory/universe/net/md-5/bungeecord-chat/1.21-R0.2-deprecated+build.21/bungeecord-chat-1.21-R0.2-deprecated+build.21.jar",
+    "sha256": "CE930B3EE048520A0AB538EB8D1627B301367FC1B300837235387ADED6D89BA1"
+  },
+  {
+    "file": "error_prone_annotations-2.41.0.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar",
+    "sha256": "A56E782B5B50811AC204073A355A21D915A2107FCE13EC711331AD036F660FCC"
+  },
+  {
+    "file": "examination-api-1.3.0.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar",
+    "sha256": "C9237FFECB05428F6EFF86216246AC70CE0B47B04C08EA7CA35020FDE57F8492"
+  },
+  {
+    "file": "examination-string-1.3.0.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar",
+    "sha256": "7D01FC25A4BB3AF0E1662685455F4541FBF4626216EA5846E455C1491E156B8C"
+  },
+  {
+    "file": "guava-33.6.0-jre.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.6.0-jre/guava-33.6.0-jre.jar",
+    "sha256": "DC573E1FCA4FD5454F4A5FD3D7DA2DF03002876A4175BAFC14A95980DD7713B3"
+  },
+  {
+    "file": "paper-api-1.21.11-R0.1-20260511.115010-91.jar",
+    "url": "https://artifactory.papermc.io/artifactory/universe/io/papermc/paper/paper-api/1.21.11-R0.1-SNAPSHOT/paper-api-1.21.11-R0.1-20260511.115010-91.jar",
+    "sha256": "C577B181C11A8674310E56C92A91E31C010B7F04C9BD10B91C3BE18374401070"
+  }
+]
